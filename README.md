@@ -1,2 +1,2 @@
 # Clustering
-Clustering on Graph Dataset
+Clustering on Graph Dataset and Visualization
